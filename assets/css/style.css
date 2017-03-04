@@ -124,8 +124,9 @@ font-weight: 900!important;
     color:#fff;
 }
 
-#home {
-    background-image: url("../img/cs.jpg");
+#home 
+{
+background-image: url("../img/cs.jpg");
 background-repeat: no-repeat;
 background-position: center 0;
 background-size: cover;
@@ -150,6 +151,16 @@ background-size: cover;
 background-attachment: fixed;
 min-height:650px; 
 }
+#maxpayin
+{
+background-image: url("../img/maxpayin.jpg");
+background-repeat: no-repeat;
+background-position: center 0;
+background-size: cover;
+background-attachment: fixed;
+min-height:650px; 
+}
+
 
 /*
 /*=======================================
@@ -251,4 +262,11 @@ color:#fff;
 {
     margin-right: 10px;
     text-align: right !important; 
+}
+#long{
+    text-align: "center";
+}
+#data
+{
+    font-family: 'Jura', cursive !important ; 
 }
